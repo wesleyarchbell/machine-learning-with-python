@@ -50,12 +50,19 @@ mkdir machine-learning-with-python
 cd machine-learning-with-python
 ```
 
-2. Launch Jupyter Notebook:
+2. Launch Jupyter Notebook or VSCode:
+
+### Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
+### VSCode:
 
-3. Open the `*.ipynb` files in Jupyter Notebook to view the code and results.
+* Install Python extension
+* Open the project directory in VSCode
+* Install Jupyter extension
+
+3. Open the `*.ipynb` files in Jupyter Notebook or VSCode to view the code and results.
 ## Additional Resources
 
 - [Jupyter Notebook Documentation](https://jupyter.org/documentation)
