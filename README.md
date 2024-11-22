@@ -38,7 +38,7 @@ python get-pip.py
 ### 3. Required Packages
 Install all necessary packages:
 ```bash
-pip install jupyter numpy pandas matplotlib scikit-learn seaborn
+pip install jupyter numpy pandas matplotlib scikit-learn seaborn 
 ```
 
 ## Getting Started
